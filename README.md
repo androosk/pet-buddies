@@ -12,3 +12,5 @@ https://androosk.github.io/pet-buddies/
 
 ## Contribution
 Made with ❤️ by androosk
+
+#### &copy2021 Pet Buddies, Inc
