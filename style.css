@@ -117,7 +117,8 @@ footer a {
   height:fit-content;
   width: 500px;
   border: 2px solid #024e76;
-  border-radius: 2%;
+  border-radius: 4%;
+  box-shadow: 0 0 5px 3px #555;
   background-color: #fce138;
   color: #024e76;
   position: absolute;
@@ -136,6 +137,7 @@ footer a {
   font-size: 16px;
   color: #024e76;
   margin-bottom: 15px;
+  border-radius: 10px;
 }
 
 .form-container label {
@@ -146,8 +148,9 @@ footer a {
   color: #fce138;
   background-color: #024e76;
   padding: 10px 20px;
-  border: none;
+  border-radius: 10px;
   font-size: 16px;
+
 }
 /* HERO STYLES END */
 
