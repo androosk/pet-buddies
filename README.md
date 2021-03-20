@@ -1,4 +1,4 @@
-# Pet Buddies Incorporated
+# Pet Buddies, Inc
 
 ## Purpose
 A website that offers dog training services.
