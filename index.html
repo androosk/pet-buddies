@@ -50,16 +50,22 @@
         <input class="form-input" type="tel" placeholder="Phone Number" name="phone" id="phone"/>
         <p>
           Have you worked with a trainer before?
-          <input type="radio" name="service-confirm" id="service-yes" />
-          <label for="service-yes">Yes</label>
-          <input type="radio" name="service-confirm" id="service-no" />
-          <label for="service-no">No</label>
+          <span class="radio-wrapper">
+            <input type="radio" name="service-confirm" id="service-yes" />
+            <label for="service-yes">Yes</label>
+          </span>
+          <span class="radio-wrapper">
+            <input type="radio" name="service-confirm" id="service-no" />
+            <label for="service-no">No</label>
+          </span>
         </p>
         <p>
-          <input type="checkbox"/>
-          <label for="sign-up">
-             I acknowledge that my pup is ready to go
-          </label>
+          <span class="checkbox-wrapper">
+            <input type="checkbox"/>
+            <label for="sign-up">
+              I acknowledge that my pup is ready to go
+            </label>
+          </span>
         </p>
         <button type="submit">Start Walking</button>
       </form>
